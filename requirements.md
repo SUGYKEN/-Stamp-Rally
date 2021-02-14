@@ -1,10 +1,14 @@
 # <span style="color: red; ">スタンプラリーアプリ</span>
 ## <span style="color: blue; ">要件洗い出し</span>
-### <span style="color: green; ">第1弾(2021/4)</span>
+### <span style="color: green; ">[第1弾(2021/4)](./requirements/requirements_1st.md)</span>
 ***
 #### 対象OS
 
 * AndroidとiOS
+
+#### ログイン
+
+* ユーザー情報を入力してログインできる
 
 #### Map作成
 
@@ -31,7 +35,7 @@
 
 #### アナリティクス
 
-* Firebaseアナリティクスでログイン機能をつけるか・・・
+* Firebaseアナリティクスを収集できる・・・
 
 ### <span style="color: green; ">第2弾(2021/6)</span>
 ***
