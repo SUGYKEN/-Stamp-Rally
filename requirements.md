@@ -1,6 +1,6 @@
 # <span style="color: red; ">スタンプラリーアプリ</span>
 ## <span style="color: blue; ">要件洗い出し</span>
-### <span style="color: green; ">[第1弾(2021/4)](./requirements/requirements_1st.md)</span>
+### <span style="color: green; ">[第1弾(2021/4)](./requirement/requirements_1st.md)</span>
 ***
 #### 対象OS
 
